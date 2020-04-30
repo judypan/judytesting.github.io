@@ -1,0 +1,7 @@
+theme: jekyll-theme-midnight
+collections:
+  stu:
+    user: true
+    image: true
+    name: true
+ 
