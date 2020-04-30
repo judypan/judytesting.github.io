@@ -4,3 +4,5 @@ The project is of a piece of very simple (yet correct) C code. We start from pos
 
 ## Code
 {% include_relative code.c %}
+{% code.c %}
+testing why it's not working here
