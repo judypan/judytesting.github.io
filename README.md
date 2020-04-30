@@ -6,7 +6,7 @@ The project is of a piece of very simple (yet correct) C code. We start from pos
 {% highlight c %}
 {% include_relative code.c %}
 {% endhighlight %}
-
+![](https://github.com/csci3251-2020/judytesting3251/workflows/.github/workflows/ccpp.yml/badge.svg)
 
 ## Contributors
 
